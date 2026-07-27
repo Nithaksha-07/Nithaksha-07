@@ -2,11 +2,12 @@
 
 ### Computer Science Engineering | AI & ML
 
-I enjoy building practical software and AI-powered solutions
-for real-world problems.
+I'm interested in building intelligent, data-driven systems that
+solve practical real-world problems.
 
-My interests lie at the intersection of **Artificial Intelligence,
-Backend Development, and Full-Stack Engineering**.
+My primary interests are **Machine Learning, Artificial Intelligence,
+and applied AI engineering**, with a strong focus on turning models
+into usable software through backend and full-stack development.
 
 ---
 
@@ -16,13 +17,13 @@ Backend Development, and Full-Stack Engineering**.
 
 Python · Java · C
 
+**Machine Learning & AI**
+
+Machine Learning · Deep Learning · Scikit-learn · Pandas · NumPy
+
 **Backend & Databases**
 
 FastAPI · REST APIs · MongoDB · PostgreSQL
-
-**AI / ML**
-
-Machine Learning · Deep Learning · Scikit-learn · Pandas · NumPy
 
 **Frontend & Tools**
 
@@ -35,37 +36,28 @@ React · Docker · Git · GitHub
 ### Xpensify ERP
 
 An AI-powered travel expense and reimbursement management system
-with role-based authentication, policy-based expense validation,
-invoice generation, and manager approval workflows.
+combining intelligent expense estimation with policy-based validation,
+role-based workflows, invoice generation, and manager approvals.
 
-**Tech:** Python · FastAPI · React · MongoDB · Docker
+**Tech:** Python · FastAPI · React · MongoDB · Machine Learning · Docker
 
 Currently building and improving this project.
 
 ---
 
-## Other Areas I've Worked On
+## Machine Learning & AI Projects
 
-I have also worked on projects involving:
+I've worked on applied ML and AI projects involving:
 
 - Accident hotspot detection and road-risk prediction
-- AI-powered agriculture solutions
-- Smart civic issue reporting and resolution
-- Machine learning and data-driven applications
-
-More projects will be added as they are polished and published.
-
----
-
-## Currently Learning
-
-- Data Structures & Algorithms
-- Backend Development
-- System Design
-- AI/ML Engineering
-- Cloud & DevOps
+- Agriculture-focused crop recommendation and AI assistance
+- Data-driven civic technology solutions
+- Machine learning models for real-world prediction and classification
+- AI-powered applications combining ML models with backend systems
 
 ---
+
+
 
 ## Let's Connect
 
@@ -75,5 +67,5 @@ More projects will be added as they are polished and published.
 ---
 
 <p align="center">
-  Building, learning, and improving one project at a time.
+  Building intelligent systems, learning continuously, and turning ideas into practical solutions.
 </p>

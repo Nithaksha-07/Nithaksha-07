@@ -6,8 +6,8 @@ I'm interested in building intelligent, data-driven systems that
 solve practical real-world problems.
 
 My primary interests are **Machine Learning, Artificial Intelligence,
-and applied AI engineering**, with a strong focus on turning models
-into usable software through backend and full-stack development.
+and applied AI engineering**, with a focus on turning models and ideas
+into practical software through backend and full-stack development.
 
 ---
 
@@ -19,7 +19,8 @@ Python · Java · C
 
 **Machine Learning & AI**
 
-Machine Learning · Deep Learning · Scikit-learn · Pandas · NumPy
+Machine Learning · Deep Learning · Neural Networks ·
+Scikit-learn · Pandas · NumPy
 
 **Backend & Databases**
 
@@ -27,37 +28,59 @@ FastAPI · REST APIs · MongoDB · PostgreSQL
 
 **Frontend & Tools**
 
-React · Docker · Git · GitHub
+React · TypeScript · Docker · Git · GitHub
 
 ---
 
-## Featured Project
+## Featured Projects
+
+### Neural Style Transfer — ArtMorph AI
+
+An AI-powered image transformation application that applies
+artistic styles to user-provided images using neural style
+transfer, with an interactive web interface for image upload
+and transformation.
+
+**Tech:** Python · FastAPI · React · TypeScript · AI/ML
+
+---
 
 ### Xpensify ERP
 
-An AI-powered travel expense and reimbursement management system
-combining intelligent expense estimation with policy-based validation,
-role-based workflows, invoice generation, and manager approvals.
+A full-stack travel expense and reimbursement management system
+with role-based authentication, policy-based expense validation,
+invoice generation, document uploads, and manager approval workflows.
 
-**Tech:** Python · FastAPI · React · MongoDB · Machine Learning · Docker
+The system incorporates business rules based on employee designation,
+destination city, and company travel policies to determine expected
+travel expenses.
 
-Currently building and improving this project.
-
----
-
-## Machine Learning & AI Projects
-
-I've worked on applied ML and AI projects involving:
-
-- Accident hotspot detection and road-risk prediction
-- Agriculture-focused crop recommendation and AI assistance
-- Data-driven civic technology solutions
-- Machine learning models for real-world prediction and classification
-- AI-powered applications combining ML models with backend systems
+**Tech:** Python · FastAPI · React · MongoDB · JWT · Docker
 
 ---
 
+## Machine Learning & AI
 
+My work and interests include:
+
+- Neural style transfer and computer vision
+- Machine learning for real-world prediction and classification
+- Data preprocessing, feature engineering, and model development
+- AI-powered recommendation and decision-support systems
+- Integrating ML models into practical full-stack applications
+
+---
+
+## Currently Learning
+
+- Machine Learning & Deep Learning
+- Data Structures & Algorithms
+- AI Engineering
+- Backend Development
+- System Design
+- Cloud & DevOps
+
+---
 
 ## Let's Connect
 

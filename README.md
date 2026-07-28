@@ -71,16 +71,7 @@ My work and interests include:
 
 ---
 
-## Currently Learning
 
-- Machine Learning & Deep Learning
-- Data Structures & Algorithms
-- AI Engineering
-- Backend Development
-- System Design
-- Cloud & DevOps
-
----
 
 ## Let's Connect
 
